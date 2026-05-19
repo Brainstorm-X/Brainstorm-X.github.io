@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Docs
+title: 资源文档
 permalink: /docs/
 ---
 
