@@ -1,14 +1,14 @@
-- title: 首页
+- title: Home
   url: /
-- title: 关于我们
+- title: About
   url: /about/
-- title: 项目成果
+- title: categories
   url: /categories/
-- title: 技术标签
+- title: Tags
   url: /tags/
-- title: 更多
+- title: More
   sublinks:
-    - title: 加入我们
+    - title: FAQ
       url: /faq/
-    - title: 资源文档
+    - title: Docs
       url: /docs/
