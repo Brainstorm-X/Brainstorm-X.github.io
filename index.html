@@ -2,11 +2,13 @@
 layout: home
 ---
 <script>
-// 核心：仅【第一次打开网站】跳转到Home，后续点击Publications不跳转
-if (!sessionStorage.getItem('hasRedirected')) {
-    // 标记：已经跳转过一次
+if (window.location.pathname === '/' && !sessionStorage.getItem('hasRedirected')) {
+    // 第一步：先永久保存"已跳转"标记
     sessionStorage.setItem('hasRedirected', 'true');
-    // 跳转到你的Home页面
-    window.location.href = "/Home/";
+    
+    // 第二步：延迟100ms跳转，给浏览器足够时间保存标记
+    setTimeout(() => {
+        window.location.replace('/Home/'); // 用replace比href更干净，不会留下历史记录
+    }, 100);
 }
 </script>
