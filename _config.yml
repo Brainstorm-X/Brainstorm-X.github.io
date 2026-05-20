@@ -29,15 +29,10 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
-logo: logo.png
+
+logo: /lab-logo.png
 social:
-  name: Shangzhi Huang
+  name: BrainstormX Lab
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
-google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+    - https://brainstorm-x.github.io/
 lang: en
