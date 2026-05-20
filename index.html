@@ -2,13 +2,14 @@
 layout: home
 ---
 <script>
-if (window.location.pathname === '/' && !sessionStorage.getItem('hasRedirected')) {
-    // 第一步：先永久保存"已跳转"标记
-    sessionStorage.setItem('hasRedirected', 'true');
-    
-    // 第二步：延迟100ms跳转，给浏览器足够时间保存标记
-    setTimeout(() => {
-        window.location.replace('/Home/'); // 用replace比href更干净，不会留下历史记录
-    }, 100);
-}
+// 立即执行，不等页面加载完成
+(function() {
+    // 严格判断：只有访问根路径，且没有跳转记录时才执行
+    if (window.location.pathname === '/' && !sessionStorage.getItem('hasRedirected')) {
+        // 先存标记，再跳转
+        sessionStorage.setItem('hasRedirected', 'true');
+        // 立即跳转，不等待任何内容
+        window.location.replace('/Home/');
+    }
+})();
 </script>
