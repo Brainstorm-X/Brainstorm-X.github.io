@@ -1,7 +1,11 @@
 ---
 layout: home
 ---
+<!-- 自动跳转到 Home，不影响原页面 -->
 <script>
-// 自动跳转到你的真实 Home 页面（大写H，匹配你的文件）
-window.location.href = "/Home/";
+window.onload = function() {
+  if(window.location.pathname === '/'){
+    window.location.href = "/Home/";
+  }
+}
 </script>
