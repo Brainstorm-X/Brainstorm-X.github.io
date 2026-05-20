@@ -3,7 +3,7 @@ layout: default
 permalink: /Publications/
 ---
 
-<br><br>
+---
 # Selected Publications
 
 (* indicates corresponding author. Full list: [DBLP](https://dblp.org/), [Google Scholar](https://scholar.google.com/))
