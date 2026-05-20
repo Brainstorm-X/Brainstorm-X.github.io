@@ -70,7 +70,7 @@ permalink: /Team/
 
 <div class="team-grid">
   <div class="team-member">
-    <img src="/assets/images/team/dq.png" alt="Qingxiong Tan" class="team-avatar">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
     <div class="member-name">Qingxiong Tan</div>
     <div class="member-title">Assistant Professor</div>
   </div>
@@ -80,7 +80,7 @@ permalink: /Team/
 
 <div class="team-grid">
   <div class="team-member">
-    <img src="/assets/images/team/student1.png" alt="Student 1" class="team-avatar">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
     <div class="member-name">Student Name 1</div>
     <div class="member-title">Ph.D. Candidate (2023)</div>
   </div>
@@ -90,7 +90,7 @@ permalink: /Team/
 
 <div class="team-grid">
   <div class="team-member">
-    <img src="/assets/images/team/student1.png" alt="Student 1" class="team-avatar">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
     <div class="member-name">Student Name 1</div>
     <div class="member-title">M.S. student (2022 Fall)</div>
   </div>
@@ -100,7 +100,7 @@ permalink: /Team/
 
 <div class="team-grid">
   <div class="team-member">
-    <img src="/assets/images/team/student1.png" alt="Student 1" class="team-avatar">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
     <div class="member-name">Student Name 1</div>
     <div class="member-title">Undergraduate (2022)</div>
   </div>
