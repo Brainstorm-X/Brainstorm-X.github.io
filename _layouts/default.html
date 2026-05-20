@@ -2,16 +2,6 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   <head>
-    <script>
-    (function() {
-        // 只有第一次访问，且当前不是Home页面时才跳转
-        if (!sessionStorage.getItem('siteVisited') && window.location.pathname !== '/Home/') {
-            sessionStorage.setItem('siteVisited', 'true');
-            window.location.replace('/Home/');
-        }
-    })();
-    </script>
-    
     {% include head.html %}
   </head>
 
