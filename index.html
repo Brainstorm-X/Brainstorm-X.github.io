@@ -1,11 +1,12 @@
 ---
 layout: home
 ---
-<!-- 自动跳转到 Home，不影响原页面 -->
 <script>
-window.onload = function() {
-  if(window.location.pathname === '/'){
+// 核心：仅【第一次打开网站】跳转到Home，后续点击Publications不跳转
+if (!sessionStorage.getItem('hasRedirected')) {
+    // 标记：已经跳转过一次
+    sessionStorage.setItem('hasRedirected', 'true');
+    // 跳转到你的Home页面
     window.location.href = "/Home/";
-  }
 }
 </script>
