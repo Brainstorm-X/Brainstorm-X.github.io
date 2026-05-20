@@ -8,18 +8,4 @@
   border-bottom: none !important;
   text-decoration: none !important;
 }
-/* 强制全局纯白色背景，覆盖所有主题默认样式 */
-html, body, .site-container, .site-header, .site-body, .site-sidebar, .site-main, .site-footer {
-  background-color: #ffffff !important;
-  color: #222222 !important;
-}
 
-/* 修复分隔线颜色 */
-hr, .sidebar-section, .contact-list li {
-  border-color: #eeeeee !important;
-}
-
-/* 修复链接颜色 */
-a {
-  color: #2c7fb8 !important;
-}
