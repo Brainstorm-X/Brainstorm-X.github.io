@@ -187,3 +187,4 @@ If you want to create more CSS styles in your site, creating a file `_sass/hamil
 ## License
 
 The theme is available as open source under the terms of the [MIT License](LICENSE.txt).
+    
