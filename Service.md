@@ -1,7 +1,7 @@
 ---
 layout: page
-title: FAQ
-permalink: /faq/
+title: Service
+permalink: /Service/
 ---
 
 # Frequently Asked Questions
