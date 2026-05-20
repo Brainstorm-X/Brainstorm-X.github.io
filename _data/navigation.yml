@@ -1,14 +1,11 @@
 - title: Home
   url: /
-- title: About
+- title: Publications
   url: /about/
-- title: categories
+- title: Projects
   url: /categories/
-- title: Tags
+- title: Team
   url: /tags/
-- title: More
-  sublinks:
-    - title: FAQ
-      url: /faq/
-    - title: Docs
-      url: /docs/
+- title: Service
+  url: /faq/
+
