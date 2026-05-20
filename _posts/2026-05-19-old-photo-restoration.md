@@ -2,8 +2,6 @@
 layout: post
 title: "Old Photo Restoration System Based on CycleGAN"
 date: 2026-05-19
-categories: Projects
-tags: [GAN, Image Restoration, Open-Source Project]
 ---
 
 ## Project Introduction
