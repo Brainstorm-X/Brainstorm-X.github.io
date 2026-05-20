@@ -1,8 +1,9 @@
 ---
-layout: archive-taxonomies
+layout: default
 type: Projects
-title: Projects
 permalink: /Projects/
+---
+
 ---
 # Research Projects
 
