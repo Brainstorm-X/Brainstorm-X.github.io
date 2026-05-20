@@ -2,60 +2,62 @@
 layout: home
 ---
 
-# BrainstormX 网安创研实验室
-**专注于网络空间安全前沿技术研究与工程实践**
+# BrainstormX Cybersecurity Innovation Lab
+**Dedicated to cutting-edge research and engineering practice in cybersecurity**
 
 ---
 
-## 关于我们
-BrainstormX Lab 是一支由xx主导的技术创新团队，深耕网络空间安全领域，致力于将前沿人工智能技术与传统安全技术深度融合。我们以"技术驱动安全，创新守护未来"为理念，聚焦攻防对抗、多媒体安全、AI安全、数据隐私等核心方向，开展原创性技术研究与落地应用。
+## About Us
+BrainstormX Lab is a student-led technical innovation team deeply rooted in the field of cybersecurity. We are committed to integrating cutting-edge artificial intelligence technologies with traditional security techniques. Guided by the philosophy of "Technology drives security, innovation protects the future", we conduct original research and practical applications in core areas including offensive and defensive confrontation, multimedia security, AI security, and data privacy.
 
-实验室成员在各类国家级、省级网络安全竞赛中屡获佳绩，同时承担多项校企合作科研项目，产出了多个具有实际应用价值的安全工具与系统。我们鼓励开放协作、勇于探索，为热爱网络安全的同学提供技术成长与实践创新的平台。
-
----
-
-## 核心研究方向
-### 人工智能安全与对抗
-- 深度神经网络对抗样本生成与防御
-- 模型窃取、投毒攻击与检测技术
-- 深度伪造内容识别与溯源
-- 大语言模型安全与对齐技术
-
-### 多媒体安全与智能取证
-- 基于生成对抗网络的老照片/视频修复
-- 数字水印与版权保护技术
-- 图像/视频篡改检测与定位
-- 隐写术与隐写分析
-
-### 漏洞挖掘与逆向工程
-- Windows/Linux 二进制漏洞挖掘与利用
-- Web 应用安全漏洞分析
-- 物联网设备固件逆向与安全评估
-- 恶意代码分析与自动化检测
-
-### 轻量级AI安全部署
-- 边缘设备端侧安全推理
-- 深度学习模型压缩与加速
-- 嵌入式系统安全防护
-- 云边协同安全架构
-
-### 数据安全与隐私保护
-- 联邦学习与分布式安全计算
-- 差分隐私技术应用
-- 敏感数据脱敏与加密
-- 区块链安全与隐私增强
+Our members have won numerous awards in national and provincial cybersecurity competitions. We also undertake multiple university-industry collaborative research projects and have developed several security tools and systems with practical application value. We encourage open collaboration and bold exploration, providing a platform for technical growth and innovative practice for students passionate about cybersecurity.
 
 ---
 
-## 我们的优势
-- **技术积累深厚**：覆盖网络安全全栈技术，在AI安全与多媒体安全方向形成特色优势
-- **实战经验丰富**：多次参与CTF竞赛、漏洞挖掘项目与企业安全评估
-- **开放协作氛围**：鼓励跨方向交流，定期开展技术分享与内部培训
-- **校企合作紧密**：与多家互联网企业、安全厂商建立长期合作关系
+## Core Research Areas
+### AI Security and Adversarial Machine Learning
+- Adversarial example generation and defense for deep neural networks
+- Model stealing, poisoning attacks and detection techniques
+- Deepfake content recognition and provenance tracing
+- Large language model security and alignment
+
+### Multimedia Security and Intelligent Forensics
+- GAN-based old photo and video restoration
+- Digital watermarking and copyright protection
+- Image and video tampering detection and localization
+- Steganography and steganalysis
+
+### Vulnerability Discovery and Reverse Engineering
+- Windows/Linux binary vulnerability discovery and exploitation
+- Web application security vulnerability analysis
+- IoT device firmware reverse engineering and security assessment
+- Malware analysis and automated detection
+
+### Lightweight AI Secure Deployment
+- Edge device on-device secure inference
+- Deep learning model compression and acceleration
+- Embedded system security protection
+- Cloud-edge collaborative security architecture
+
+### Data Security and Privacy Protection
+- Federated learning and distributed secure computing
+- Differential privacy technology applications
+- Sensitive data anonymization and encryption
+- Blockchain security and privacy enhancement
 
 ---
 
-## 加入我们
-我们长期招募对网络空间安全充满热情的在校同学，无论你是零基础的技术爱好者，还是有一定经验的安全研究者，都能在这里找到适合自己的成长路径。
+## Our Advantages
+- **Deep technical expertise**: Covers the full stack of cybersecurity technologies, with distinctive strengths in AI security and multimedia security
+- **Rich hands-on experience**: Extensive participation in CTF competitions, vulnerability discovery projects and enterprise security assessments
+- **Open and collaborative culture**: Encourages cross-directional communication and holds regular technical sharing and internal training sessions
+- **Close industry-university collaboration**: Established long-term partnerships with multiple Internet companies and security vendors
 
-**联系邮箱**：dai18232576157@163.com
+---
+
+## Join Us
+We are always recruiting passionate undergraduate and graduate students interested in cybersecurity. Whether you are a beginner with no prior experience or an experienced security researcher, you will find a suitable growth path here.
+
+**Recruitment Areas**: Vulnerability Discovery, Reverse Engineering, Web Security, AI Security, Frontend/Backend Development
+
+**e-mail**：dai18232576157@163.com
