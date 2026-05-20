@@ -9,3 +9,8 @@
   text-decoration: none !important;
 }
 
+/* 侧边栏Logo改为正方形，完整显示 */
+.author-avatar {
+  border-radius: 0 !important;    /* 去掉圆形，变成正方形 */
+  object-fit: contain !important; /* 完整显示图片，不裁剪 */
+}
