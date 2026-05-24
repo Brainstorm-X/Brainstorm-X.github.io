@@ -71,17 +71,17 @@ permalink: /Team/
 <div class="team-grid">
   <div class="team-member">
     <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
-    <div class="member-name">Chen Lifang</div>
+    <div class="member-name"><a href="https://lxy.ncst.edu.cn/col/1587717135030/2020/04/26/1587862108090.html" target="_blank">Chen Lifang</a></div>
     <div class="member-title">Professor</div>
   </div>
   <div class="team-member">
     <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
-    <div class="member-name">Zhou Xu</div>
+    <div class="member-name"><a href="https://lxy.ncst.edu.cn/col/1587717370090/2023/04/16/1681653921809.html" target="_blank">Zhou Xu</a></div>
     <div class="member-title">Assistant Professor</div>
   </div>
   <div class="team-member">
     <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
-    <div class="member-name">Liu Dongmei</div>
+    <div class="member-name"><a href="https://lxy.ncst.edu.cn/col/1587717370090/2023/04/20/1681976393758.html" target="_blank">Liu Dongmei</a></div>
     <div class="member-title">Assistant Professor</div>
   </div>
   <div class="team-member">
@@ -92,7 +92,7 @@ permalink: /Team/
   <div class="team-member">
     <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
     <div class="member-name">Dai Qi</div>
-    <div class="member-title">Lecturer (IEEE Member)</div>
+    <div class="member-title">Lecturer <br> (IEEE Member)</div>
   </div>
 </div>
 
