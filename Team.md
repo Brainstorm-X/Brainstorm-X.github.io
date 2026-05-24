@@ -5,10 +5,10 @@ permalink: /Team/
 ---
 
 <style>
-/* 团队成员网格布局 */
+/* 团队成员网格布局 - 统一使用4列 */
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, 1fr); /* 统一设置为4列 */
   gap: 40px;
   margin: 3em 0;
 }
