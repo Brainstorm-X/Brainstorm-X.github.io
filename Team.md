@@ -223,4 +223,6 @@ permalink: /Team/
 
 # Alumni
 Yang Jiapeng (Undergraduate, 2019). Current: Microsoft  
-Tang Yu (M.S. student, 2020). Current: Beijing Jiaotong University, Ph. D.
+Tang Yu (M.S. student, 2020). Current: Beijing Jiaotong University, Ph. D.  
+Wang Longhui (M.S. Student, 2022). Current: Huaibei Vocational and Technical College,Assistant Professor.
+
