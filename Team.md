@@ -5,32 +5,28 @@ permalink: /Team/
 ---
 
 <style>
-/* 改用 Flex 布局，确保所有卡片均匀排列 */
 .team-grid {
   display: flex;
-  flex-wrap: wrap; /* 自动换行 */
-  justify-content: space-around; /* 卡片之间均匀分布 */
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 30px;
   margin: 3em 0;
 }
 
-/* 固定卡片宽度，确保不被压缩 */
 .team-member {
   text-align: center;
-  width: 180px; /* 固定宽度 */
-  margin: 10px; /* 卡片周围的边距 */
+  width: 180px;
 }
 
-/* 圆形头像 - 完整显示 */
 .team-avatar {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  object-fit: contain; /* 完整显示图片 */
+  object-fit: contain;
   border: 3px solid #eee;
   margin-bottom: 1em;
 }
 
-/* 成员名字（蓝色）- 强制不换行，超出省略 */
 .member-name {
   color: #2c7fb8;
   font-size: 1.1em;
@@ -41,7 +37,6 @@ permalink: /Team/
   text-overflow: ellipsis;
 }
 
-/* 成员职位 - 强制不换行，超出省略 */
 .member-title {
   font-size: 0.95em;
   color: #333;
@@ -51,7 +46,6 @@ permalink: /Team/
   text-overflow: ellipsis;
 }
 
-/* Alumni 部分样式 */
 .alumni-name {
   color: #2c7fb8;
   font-weight: 500;
@@ -66,10 +60,9 @@ permalink: /Team/
   margin: 0.5em 0;
 }
 
-/* 响应式适配 */
 @media (max-width: 768px) {
   .team-grid {
-    justify-content: center; /* 在小屏幕上居中 */
+    justify-content: flex-start;
   }
 }
 </style>
