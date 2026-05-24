@@ -18,12 +18,12 @@ permalink: /Team/
   text-align: center;
 }
 
-/* 圆形头像 */
+/* 圆形头像 - 统一尺寸 */
 .team-avatar {
-  width: 150px;
-  height: 150px;
+  width: 120px;  /* 统一宽度 */
+  height: 120px; /* 统一高度 */
   border-radius: 50%;
-  object-fit: cover;
+  object-fit: cover; /* 确保图片完整填充圆形 */
   border: 3px solid #eee;
   margin-bottom: 1em;
 }
@@ -61,6 +61,16 @@ permalink: /Team/
 .alumni-name {
   color: #2c7fb8;
   font-weight: 500;
+}
+
+/* Alumni 列表样式 - 减小间距 */
+.alumni-list {
+  margin-top: 1em;
+  line-height: 1.8; /* 调整行高，使内容更紧凑 */
+}
+
+.alumni-list p {
+  margin: 0.5em 0; /* 减小段落之间的默认间距 */
 }
 
 /* 响应式适配：手机端自动调整列数 */
@@ -234,6 +244,8 @@ permalink: /Team/
 </div>
 
 # Alumni
-<p><span class="alumni-name">Yang Jiapeng</span> (Undergraduate, 2019). Current: Microsoft</p>
-<p><span class="alumni-name">Tang Yu</span> (M.S. student, 2020). Current: Beijing Jiaotong University, Ph. D.</p>
-<p><span class="alumni-name">Wang Longhui</span> (M.S. Student, 2022). Current: Huaibei Vocational and Technical College, Assistant Professor.</p>
+<div class="alumni-list">
+  <p><span class="alumni-name">Yang Jiapeng</span> (Undergraduate, 2019). Current: Microsoft</p>
+  <p><span class="alumni-name">Tang Yu</span> (M.S. student, 2020). Current: Beijing Jiaotong University, Ph. D.</p>
+  <p><span class="alumni-name">Wang Longhui</span> (M.S. Student, 2022). Current: Huaibei Vocational and Technical College, Assistant Professor.</p>
+</div>
