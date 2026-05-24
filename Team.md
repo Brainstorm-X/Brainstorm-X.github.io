@@ -5,27 +5,27 @@ permalink: /Team/
 ---
 
 <style>
-/* 核心修复：固定卡片宽度，防止被压缩 */
+/* 改用 Flex 布局，确保所有卡片均匀排列 */
 .team-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 30px; /* 缩小一点间距，给卡片更多空间 */
+  display: flex;
+  flex-wrap: wrap; /* 自动换行 */
+  justify-content: space-around; /* 卡片之间均匀分布 */
   margin: 3em 0;
 }
 
-/* 强制卡片宽度固定，不被挤压 */
+/* 固定卡片宽度，确保不被压缩 */
 .team-member {
   text-align: center;
-  max-width: 180px; /* 给每个卡片固定最大宽度 */
-  margin: 0 auto;   /* 卡片在列内居中 */
+  width: 180px; /* 固定宽度 */
+  margin: 10px; /* 卡片周围的边距 */
 }
 
-/* 圆形头像 - 强制完整显示 */
+/* 圆形头像 - 完整显示 */
 .team-avatar {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  object-fit: contain; /* 改为contain，完整显示图片，不裁剪 */
+  object-fit: contain; /* 完整显示图片 */
   border: 3px solid #eee;
   margin-bottom: 1em;
 }
@@ -69,13 +69,7 @@ permalink: /Team/
 /* 响应式适配 */
 @media (max-width: 768px) {
   .team-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 480px) {
-  .team-grid {
-    grid-template-columns: 1fr;
+    justify-content: center; /* 在小屏幕上居中 */
   }
 }
 </style>
