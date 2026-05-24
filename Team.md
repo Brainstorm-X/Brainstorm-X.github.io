@@ -94,7 +94,7 @@ permalink: /Team/
   <div class="team-member">
     <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
     <div class="member-name">Dai Qi</div>
-    <div class="member-title">Lecturer (IEEE Member)</div>
+    <div class="member-title">Lecturer<br>(IEEE Member)</div>
   </div>
 </div>
 
