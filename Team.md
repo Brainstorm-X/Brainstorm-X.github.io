@@ -220,3 +220,7 @@ permalink: /Team/
     <div class="member-title">Undergraduate (2025)</div>
   </div>
 </div>
+
+# Alumni
+Yang Jiapeng (Undergraduate, 2019). Current: Microsoft  
+Tang Yu (M.S. student, 2020). Current: Beijing Jiaotong University, Ph. D.
