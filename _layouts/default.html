@@ -11,18 +11,17 @@
         {% include header.html %}
       </header>
       
-      <!-- 🔥 核心修改：强制固定布局，统一所有页面边距 -->
-      <div class="site-body wrapper" style="display: flex; justify-content: space-between; width: 100%; max-width: 100% !important; padding: 0 !important; margin: 0 auto !important;">
-        <!-- 侧边栏：固定宽度 18% -->
-        <aside class="site-sidebar" id="site-sidebar" style="flex: 0 0 18% !important; width: 18% !important; max-width: 18% !important; padding: 0 10px !important;">
+      <div class="site-body wrapper" style="display: flex; justify-content: space-between; width: 100%; max-width: 100% !important; padding: 0 !important; margin: 0 auto !important; box-sizing: border-box;">
+        <!-- 侧边栏：固定宽度 18%，盒模型修正 -->
+        <aside class="site-sidebar" id="site-sidebar" style="flex: 0 0 18% !important; width: 18% !important; max-width: 18% !important; padding: 0 10px !important; box-sizing: border-box;">
           {% if page.toc %}
             {% include sidebar-toc.html %}
           {% else %}
             {% include sidebar.html %}
           {% endif %}
         </aside>
-        <!-- 主内容：固定宽度 80%，中间间距2% -->
-        <main class="site-main" id="site-main" aria-label="Content" tabindex="1" style="flex: 0 0 80% !important; width: 80% !important; max-width: 80% !important; margin-left: 2% !important; padding: 0 !important;">
+        <!-- 主内容：固定宽度 80%，加盒模型、内边距和自动换行 -->
+        <main class="site-main" id="site-main" aria-label="Content" tabindex="1" style="flex: 0 0 80% !important; width: 80% !important; max-width: 80% !important; margin-left: 2% !important; padding: 0 1rem !important; box-sizing: border-box; word-break: break-word !important; -webkit-hyphens: none !important; hyphens: none !important; overflow-x: visible !important;">
           {{ content }}
           <footer class="site-footer">
             {% include footer.html %}
