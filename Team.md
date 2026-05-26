@@ -79,12 +79,12 @@ permalink: /Team/
   <div class="team-member">
     <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
     <div class="member-name"><a href="https://lxy.ncst.edu.cn/col/1587717370090/2023/04/16/1681653921809.html" target="_blank">Zhou Xu</a></div>
-    <div class="member-title">Assistant Professor</div>
+    <div class="member-title">Associate Professor</div>
   </div>
   <div class="team-member">
     <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
     <div class="member-name"><a href="https://lxy.ncst.edu.cn/col/1587717370090/2023/04/20/1681976393758.html" target="_blank">Liu Dongmei</a></div>
-    <div class="member-title">Assistant Professor</div>
+    <div class="member-title">Associate Professor</div>
   </div>
   <div class="team-member">
     <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
@@ -225,6 +225,7 @@ permalink: /Team/
 
 # Alumni
 <div class="alumni-list">
+  <p><span class="alumni-name">Liu Yang (Undergraduate, 2019). Current: DiDi Global Inc</p>
   <p><span class="alumni-name">Yang Jiapeng</span> (Undergraduate, 2019). Current: Microsoft</p>
   <p><span class="alumni-name">Tang Yu</span> (M.S. student, 2020). Current: Beijing Jiaotong University, Ph. D.</p>
   <p><span class="alumni-name">Wang Longhui</span> (M.S. Student, 2022). Current: Huaibei Vocational and Technical College, Assistant Professor.</p>
