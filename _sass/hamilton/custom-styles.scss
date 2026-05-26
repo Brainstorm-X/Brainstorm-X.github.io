@@ -5,19 +5,21 @@
   font-weight: 600; /* 加粗，和第二张图的视觉重量匹配 */
   letter-spacing: 0.02em; /* 轻微字间距，更规整 */
 }
+/* ==============================================
+   强制统一所有页面的左右边距和两栏比例
+   用ID选择器，优先级碾压主题原生样式
+============================================== */
 @media screen and (min-width: 900px) {
   /* 1. 统一侧边栏宽度（所有页面都是18%） */
-  .sidebar {
+  #sidebar {
     width: 18% !important;
     flex: 0 0 18% !important;
     max-width: 18% !important;
+    padding: 1rem !important;
   }
 
   /* 2. 统一主内容区宽度（所有页面都是80%） */
-  .main-content,
-  .main-content > .container,
-  .post-content,
-  .page-content {
+  #main {
     width: 80% !important;
     flex: 0 0 80% !important;
     max-width: 80% !important;
@@ -25,9 +27,16 @@
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
+
+  /* 3. 强制外层容器宽度，消除全局空白 */
+  #main-wrapper {
+    max-width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
 }
 
-/* 3. 全局禁用自动断词，消除视觉差异 */
+/* 4. 全局禁用自动断词，消除视觉差异 */
 * {
   -webkit-hyphens: none !important;
   -moz-hyphens: none !important;
