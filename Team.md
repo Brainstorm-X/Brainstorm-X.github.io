@@ -87,7 +87,7 @@ permalink: /Team/
     <div class="member-title">Associate Professor</div>
   </div>
   <div class="team-member">
-    <img src="/assets/images/team/Faculty Members/侯伟.jpg" alt="Hou Wei" class="team-avatar">
+    <img src="/assets/images/team/Faculty Members/侯伟.png" alt="Hou Wei" class="team-avatar">
     <div class="member-name">Hou Wei</div>
     <div class="member-title">Lecturer</div>
   </div>
@@ -102,27 +102,27 @@ permalink: /Team/
 
 <div class="team-grid">
   <div class="team-member">
-    <img src="/assets/images/team/Master Students/李承罡.jpg" alt="Li Chenggang" class="team-avatar">
+    <img src="/assets/images/team/Master Students/李承罡.png" alt="Li Chenggang" class="team-avatar">
     <div class="member-name">Li Chenggang</div>
     <div class="member-title">M.S. Student (2024)</div>
   </div>
   <div class="team-member">
-    <img src="/assets/images/team/Master Students/任子涵.jpg" alt="Ren Zihan" class="team-avatar">
+    <img src="/assets/images/team/Master Students/任子涵.png" alt="Ren Zihan" class="team-avatar">
     <div class="member-name">Ren Zihan</div>
     <div class="member-title">M.S. Student (2024)</div>
   </div>
   <div class="team-member">
-    <img src="/assets/images/team/Master Students/孔铃晶.jpg" alt="Kong Lingjing" class="team-avatar">
+    <img src="/assets/images/team/Master Students/孔铃晶.png" alt="Kong Lingjing" class="team-avatar">
     <div class="member-name">Kong Lingjing</div>
     <div class="member-title">M.S. Student (2024)</div>
   </div>
   <div class="team-member">
-    <img src="/assets/images/team/Master Students/黄鼎辰.jpg" alt="Huang Dingchen" class="team-avatar">
+    <img src="/assets/images/team/Master Students/黄鼎辰.png" alt="Huang Dingchen" class="team-avatar">
     <div class="member-name">Huang Dingchen</div>
     <div class="member-title">M.S. Student (2024)</div>
   </div>
   <div class="team-member">
-    <img src="/assets/images/team/Master Students/王启承.jpg" alt="Wang Qicheng" class="team-avatar">
+    <img src="/assets/images/team/Master Students/王启承.png" alt="Wang Qicheng" class="team-avatar">
     <div class="member-name">Wang Qicheng</div>
     <div class="member-title">M.S. Student (2024)</div>
   </div>
