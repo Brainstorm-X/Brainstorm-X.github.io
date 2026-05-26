@@ -181,6 +181,11 @@ permalink: /Team/
     <div class="member-name">Wang Yufan</div>
     <div class="member-title">M.S. Student (2025)</div>
   </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Li Yu</div>
+    <div class="member-title">M.S. Student (2025)</div>
+  </div>
 </div>
 
 # Undergraduate Students
