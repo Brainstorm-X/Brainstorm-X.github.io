@@ -6,3 +6,17 @@
   letter-spacing: 0.02em; /* 轻微字间距，更规整 */
 }
 
+@media screen and (min-width: 768px) {
+  /* 侧边栏缩小（核心修改） */
+  .sidebar {
+    width: 18% !important;    // 侧边栏宽度：从默认22%→18%，明显变小
+    flex: 0 0 18% !important; // 强制覆盖flex布局，确保宽度生效
+  }
+
+  /* 正文区域放大 */
+  .main-content {
+    width: 80% !important;   // 正文宽度：从默认74%→80%，对应变宽
+    flex: 0 0 80% !important;
+    margin-left: 2% !important; // 中间间距调整，确保 18% + 80% + 2% = 100%
+  }
+}
