@@ -1,14 +1,2 @@
 // Placeholder to allow overriding predefined variables.
-// 全局页面边距（左右空白，默认2rem，改为0.5rem）
-$page-margin: 0.5rem !default;
 
-// 主内容最大宽度（默认700px，改为1024px，空白大幅减少）
-$content-width: 1024px !default;
-
-// 两栏布局比例（侧边栏+主内容+间距=100%）
-$sidebar-width: 16% !default;    // 侧边栏更窄
-$main-width: 80% !default;       // 主内容更宽
-$gutter-width: 4% !default;      // 中间间距不变
-
-// 强制容器宽度不被限制
-$max-width: 100% !default;
