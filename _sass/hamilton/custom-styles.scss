@@ -5,21 +5,4 @@
   font-weight: 600; /* 加粗，和第二张图的视觉重量匹配 */
   letter-spacing: 0.02em; /* 轻微字间距，更规整 */
 }
-/* 1. 整体容器加宽 */
-.container {
-  max-width: 960px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 15px !important;
-  padding-right: 15px !important;
-}
-/* 2. 两栏布局适配（你当前的侧边栏+主内容） */
-@media screen and (min-width: 768px) {
-  .sidebar {
-    width: 18% !important; /* 缩小侧边栏占比 */
-  }
-  .main-content {
-    width: 78% !important; /* 扩大主内容占比 */
-    margin-left: 4% !important;
-  }
-}
+
