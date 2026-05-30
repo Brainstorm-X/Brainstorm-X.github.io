@@ -17,23 +17,24 @@ Our members have won numerous awards in national and provincial cybersecurity co
 ---
 
 ## Core Research Areas
+### Granular computing and applications
+- Theoretical research on granular computing
+- Multi-granularity computation and fusion
+- Cross-granularity inference and transformation
+- Granular ball computing and its applications
+
+### Industrial data mining
+- Multi-source heterogeneous industrial data analysis
+- Long-tail data analysis and mining
+- Time-series fault data association rule mining
+- Energy Data Mining and Analysis
+- Industrial Information Security
+
 ### AI Security and Adversarial Machine Learning
 - Adversarial example generation and defense for deep neural networks
 - Model stealing, poisoning attacks and detection techniques
 - Deepfake content recognition and provenance tracing
 - Large language model security and alignment
-
-### Multimedia Security and Intelligent Forensics
-- GAN-based old photo and video restoration
-- Digital watermarking and copyright protection
-- Image and video tampering detection and localization
-- Steganography and steganalysis
-
-### Vulnerability Discovery and Reverse Engineering
-- Windows/Linux binary vulnerability discovery and exploitation
-- Web application security vulnerability analysis
-- IoT device firmware reverse engineering and security assessment
-- Malware analysis and automated detection
 
 ### Lightweight AI Secure Deployment
 - Edge device on-device secure inference
@@ -49,17 +50,9 @@ Our members have won numerous awards in national and provincial cybersecurity co
 
 ---
 
-## Our Advantages
-- **Deep technical expertise**: Covers the full stack of cybersecurity technologies, with distinctive strengths in AI security and multimedia security
-- **Rich hands-on experience**: Extensive participation in CTF competitions, vulnerability discovery projects and enterprise security assessments
-- **Open and collaborative culture**: Encourages cross-directional communication and holds regular technical sharing and internal training sessions
-- **Close industry-university collaboration**: Established long-term partnerships with multiple Internet companies and security vendors
-
----
-
 ## Join Us
-We are always recruiting passionate undergraduate and graduate students interested in cybersecurity. Whether you are a beginner with no prior experience or an experienced security researcher, you will find a suitable growth path here.
+We are always recruiting passionate undergraduate and graduate students interested in Cybersecurity, Granular Computing, and Industrial Data Mining. Whether you are a beginner with no prior experience or an experienced security researcher, you will find a suitable growth path here.
 
-**Recruitment Areas**: Vulnerability Discovery, Reverse Engineering, Web Security, AI Security, Frontend/Backend Development
+**Recruitment Areas**: Granular Computing, Machine Learning, Industrial Data Mining, Internet of Things, and Decentralized Federated Learning, et, al.
 
-**e-mail**：dai18232576157@163.com
+**e-mail**：daiqi0622@ncst.edu.cn
