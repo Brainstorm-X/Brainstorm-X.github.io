@@ -75,26 +75,31 @@ permalink: /Team/
     <img src="/assets/images/team/Faculty Members/陈丽芳.jpg" alt="Chen Lifang" class="team-avatar">
     <div class="member-name"><a href="https://lxy.ncst.edu.cn/col/1587717135030/2020/04/26/1587862108090.html" target="_blank">Chen Lifang</a></div>
     <div class="member-title">Professor</div>
+    <div class="email">chenlifang@ncst.edu.cn</div>
   </div>
   <div class="team-member">
     <img src="/assets/images/team/Faculty Members/周旭.jpg" alt="Zhou Xu" class="team-avatar">
     <div class="member-name"><a href="https://lxy.ncst.edu.cn/col/1587717370090/2023/04/16/1681653921809.html" target="_blank">Zhou Xu</a></div>
     <div class="member-title">Associate Professor</div>
+    <div class="email">zhouxu@ncst.edu.cn</div>
   </div>
   <div class="team-member">
     <img src="/assets/images/team/Faculty Members/刘冬梅.jpg" alt="Liu Dongmei" class="team-avatar">
     <div class="member-name"><a href="https://lxy.ncst.edu.cn/col/1587717370090/2023/04/20/1681976393758.html" target="_blank">Liu Dongmei</a></div>
     <div class="member-title">Associate Professor</div>
+    <div class="email">dmliu@ncst.edu.cn</div>
   </div>
   <div class="team-member">
     <img src="/assets/images/team/Faculty Members/侯伟.png" alt="Hou Wei" class="team-avatar">
     <div class="member-name">Hou Wei</div>
     <div class="member-title">Lecturer</div>
+    <div class="email">houwei@ncst.edu.cn</div>
   </div>
   <div class="team-member">
     <img src="/assets/images/team/Faculty Members/代琪.jpg" alt="Dai Qi" class="team-avatar">
     <div class="member-name">Dai Qi</div>
     <div class="member-title">Lecturer<br>(IEEE Member)</div>
+    <div class="email">daiqi0622@ncst.edu.cn</div>
   </div>
 </div>
 
