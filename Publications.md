@@ -12,6 +12,13 @@ permalink: /Publications/
 
 ## 2026
 
+**Subspace ensemble learning by heterogeneous correlation collaborative ensemble for class-imbalance problem**  
+Dai Qi, Wang Longhui, Bai Haoran, Chen Lifang*
+<em>Knowledge and Information Systems</em>  
+[Paper](https://link.springer.com/article/10.1007/s10115-026-02811-4)
+
+---
+
 **TF-GNN: A temporal feedback graph neural network with discriminative regularization for heterogeneous fraud detection**  
 Zhen Wanpeng, Dai Qi, Chen Lifang, Liu Dongmei*  
 <em>Neurocomputing</em>  
