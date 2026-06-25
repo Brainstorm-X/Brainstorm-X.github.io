@@ -191,6 +191,36 @@ permalink: /Team/
     <div class="member-name">Li Yu</div>
     <div class="member-title">M.S. Student (2025)</div>
   </div>
+  <div class="team-member">
+    <img src="/assets/images/team/Master Students/程龙飞.jpg" alt="Cheng Longfei" class="team-avatar">
+    <div class="member-name">Cheng Longfei</div>
+    <div class="member-title">M.S. Student (2026)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/Master Students/孟硕.jpg" alt="Meng Shuo" class="team-avatar">
+    <div class="member-name">Meng Shuo</div>
+    <div class="member-title">M.S. Student (2026)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/Master Students/宋宇航.png" alt="Song Yuhang" class="team-avatar">
+    <div class="member-name">Song Yuhang</div>
+    <div class="member-title">M.S. Student (2026)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/Master Students/张雅萍.jpg" alt="Zhang Yaping" class="team-avatar">
+    <div class="member-name">Zhang Yaping</div>
+    <div class="member-title">M.S. Student (2026)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/Master Students/赵卓.jpg" alt="Zhao Zhuo" class="team-avatar">
+    <div class="member-name">Zhao Zhuo</div>
+    <div class="member-title">M.S. Student (2026)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/Master Students/朱付柱.jpg" alt="Zhu Fuzhu" class="team-avatar">
+    <div class="member-name">Zhu Fuzhu</div>
+    <div class="member-title">M.S. Student (2026)</div>
+  </div>
 </div>
 
 # Undergraduate Students
@@ -229,6 +259,16 @@ permalink: /Team/
   <div class="team-member">
     <img src="/assets/images/team/Undergraduate Students/李旭婷.jpg" alt="Li Xuting" class="team-avatar">
     <div class="member-name">Li Xuting</div>
+    <div class="member-title">Undergraduate (2025)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/Undergraduate Students/刘雨晴.png" alt="Liu Yuqing" class="team-avatar">
+    <div class="member-name">Liu Yuqing</div>
+    <div class="member-title">Undergraduate (2025)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/Undergraduate Students/曲家仑.png" alt="Qu Jialun" class="team-avatar">
+    <div class="member-name">Qu Jialun</div>
     <div class="member-title">Undergraduate (2025)</div>
   </div>
 </div>
